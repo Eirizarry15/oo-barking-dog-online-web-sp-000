@@ -6,10 +6,10 @@ end
 def name
   @name
  end
-end
 
-def bark=(bark)
-  @bark = bark
+
+def bark
+  
 puts "Woof" 
 end
 end

@@ -10,7 +10,7 @@ def name
 
 def bark
   
-puts "Woof" 
+puts "woof!" 
 end
 end
   
